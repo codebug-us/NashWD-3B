@@ -58,20 +58,20 @@ document.addEventListener('DOMContentLoaded', function() {
   // console.log("The function areTheySpeeding(60) returns: ", areTheySpeeding(60));
   // console.log("The function areTheySpeeding(90) returns: ", areTheySpeeding(90));
 //////////////////////////////////////////////////////////////////////////
-  // Write `addTwoNumbers` below.
+  // Write `sum` below.
 
 
 
 
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function addTwoNumbers(3, 4) returns: ", addTwoNumbers(3, 4));
+  // console.log("The function sum(3, 4) returns: ", sum(3, 4));
 //////////////////////////////////////////////////////////////////////////
-  // Write `multiplyTwoNumbers` below.
+  // Write `product` below.
 
 
 
 
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function multiplyTwoNumbers(8, 10) returns: ", multiplyTwoNumbers(8, 10));
+  // console.log("The function product(8, 10) returns: ", product(8, 10));
 //////////////////////////////////////////////////////////////////////////
 })

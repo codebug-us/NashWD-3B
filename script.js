@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Uncomment the line below, and look in the console to see if your function worked!
   // console.log("The function greetMe('Carl') returns: ", greetMe("Carl"));
+  // console.log("The function greetMe('Joe') returns: ", greetMe("Joe"));
   
 //////////////////////////////////////////////////////////////////////////
   // Write `isItLessThanTen` below.

@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function double(6) returns: ", addFive(10))
+  // console.log("The function addFive(6) returns: ", addFive(10));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `double` below.
 
@@ -21,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Uncomment the line below, and look in the console to see if your function worked!
   // console.log("The function double(6) returns: ", double(6));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `greetMe` below.
 
@@ -29,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Uncomment the line below, and look in the console to see if your function worked!
   // console.log("The function greetMe("Carl") returns: ", greetMe("Carl"));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `isItLessThanTen` below.
 
@@ -37,7 +40,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Uncomment the lines below, and look in the console to see if your function worked!
   // console.log("The function isItLessThanTen(3) returns: ", isItLessThanTen(3));
-// console.log("The function isItLessThanTen(20) returns: ", isItLessThanTen(20));
+  // console.log("The function isItLessThanTen(20) returns: ", isItLessThanTen(20));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `inHighSchool` below.
 
@@ -48,6 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Uncomment the lines below, and look in the console to see if your function worked!
   // console.log("The function inHighSchool(17) returns: ", inHighSchool(17));
   // console.log("The function inHighSchool(5) returns: ", inHighSchool(5));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `areTheySpeeding` below.
 
@@ -57,6 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Uncomment the line below, and look in the console to see if your function worked!
   // console.log("The function areTheySpeeding(60) returns: ", areTheySpeeding(60));
   // console.log("The function areTheySpeeding(90) returns: ", areTheySpeeding(90));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `sum` below.
 
@@ -65,6 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Uncomment the lines below, and look in the console to see if your function worked!
   // console.log("The function sum(3, 4) returns: ", sum(3, 4));
+  
 //////////////////////////////////////////////////////////////////////////
   // Write `product` below.
 
@@ -74,4 +81,4 @@ document.addEventListener('DOMContentLoaded', function() {
   // Uncomment the lines below, and look in the console to see if your function worked!
   // console.log("The function product(8, 10) returns: ", product(8, 10));
 //////////////////////////////////////////////////////////////////////////
-})
+});

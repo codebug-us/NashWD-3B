@@ -22,29 +22,3 @@ Intro to Functions
 * `areTheySpeeding`: Should take in a speed (in mph). If their speed is less than 75, it should return "Thanks for driving safely!", otherwise it should return "SLOW DOWN!!"
 * `sum`: Should take in TWO numbers and return the sum of those two numbers.
 * `product`: Should take in TWO numbers and return the product of those two numbers.
-
-
-## Extensions: 
-* Javascript has some built-in functions that you can call on different data-types. See if you can determine what my function below is doing. What might be a better name for my function below? Can you come up with example inputs for "word" that would return `true`? What about `false`? 
-
-```
-function myFunction(word) {
-  var lettersOnly = word.toLowerCase().replace(/\s/g, "");
-  return lettersOnly === lettersOnly.split("").reverse().join("");
-}
-
-```
-
-* Let's try another: 
-```
-function myFunction2(first, second) {
-  var a = first.toLowerCase();
-  var b = second.toLowerCase();
-
-  a = a.split("").sort().join("");
-  b = b.split("").sort().join("");
-
-  return a === b;
-}
-```
-What might be a better name for myFunction2 above? Can you come up with example inputs for "first" and "second" that would return `true`? What about `false`? 
